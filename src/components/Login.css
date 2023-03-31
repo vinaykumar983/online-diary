@@ -1,0 +1,28 @@
+/*.img1{
+    padding-left: 45rem;
+    padding-top: 5rem;
+}*/
+
+.qw{
+  background-image: linear-gradient(#a1c4fd,#25272b);
+}
+
+   /* .cs1{
+        background-image: linear-gradient(to right, #1ca4c9 1%, #de7a84  51%, #42c98a  100%);
+        margin: 10px;
+        padding: 10px 35px;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;            
+        box-shadow: 0 0 20px #eee;
+        border-radius: 10px;
+        display: block;
+      }
+    
+      .cs1:hover {
+        background-position: right center; /* change the direction of the change here */
+       /* color: #fff;*/
+       /* text-decoration: none;*/
+      

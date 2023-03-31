@@ -1,0 +1,29 @@
+img{
+    width: 100%;
+  height: auto;
+}
+
+
+.qw{
+  background-image: linear-gradient(#a1c4fd,#25272b);
+}
+
+@media(min-width:0px) and (max-width:480px){
+  .asdf{
+    size: 0.5px;
+    display: inline;
+  }
+}
+
+@media(min-width:481px) and (max-width:768px){
+  .asdf{
+    size: 3px;
+    display: inline;
+  }
+}
+@media(min-width:769px) and (max-width:1024px){
+  .asdf{
+    size: 5px;
+    display: inline;
+  }
+}
